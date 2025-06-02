@@ -1,8 +1,9 @@
 flask
+gunicorn
 python-pptx
 python-docx
 langchain>=0.1.13
+langchain-community
 faiss-cpu
 sentence-transformers
 huggingface-hub
-gunicorn
