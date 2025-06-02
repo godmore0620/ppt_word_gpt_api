@@ -1,0 +1,7 @@
+flask
+python-pptx
+python-docx
+langchain
+faiss-cpu
+sentence-transformers
+huggingface-hub
